@@ -1,0 +1,19 @@
+{
+  "name": "justice",
+  "version": "1.0.0",
+  "description": "Justice Jansen's testing examples",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "testing",
+    "personal",
+    "non-profit"
+  ],
+  "author": "JeingYi",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.9.0"
+  }
+}
